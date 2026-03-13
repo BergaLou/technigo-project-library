@@ -20,4 +20,4 @@ Personalization: Build a "Favorites" feature where users can save specific sessi
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://zen-chi.netlify.app/
