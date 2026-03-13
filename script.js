@@ -141,7 +141,6 @@ const yoga = [
     duration: 45,
     description:
       'A dynamic flow that builds heat and strength through a series of vinyasas.',
-    Link: '',
     image: 'yoga-images/yoga3.jpg'
   },
   {
@@ -151,7 +150,6 @@ const yoga = [
     duration: 60,
     description:
       "A dynamic flow that builds heat and strength through a series of vinyasas.",
-    Link: '',
     image: 'yoga-images/yoga4.jpg'
   },
   {
